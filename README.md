@@ -8,7 +8,14 @@ site: [platformatic.dev](https://platformatic.dev/)
 
 doc: [Reference](https://platformatic.dev/docs/Overview)
 
-## workshop 1
+## Requirements
+
+- [Node.js](https://nodejs.org/) >= v22.19.0
+- [npm](https://docs.npmjs.com/cli/) v10 or later
+- [pnpm](https://pnpm.io/) v10 or later
+- A code editor, for example [Visual Studio Code](https://code.visualstudio.com/)
+
+## Workshop 1 - frontend & gateway
 
 How to start with a frontend and expose it with the gateway application...
 
