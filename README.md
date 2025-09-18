@@ -2,7 +2,7 @@
 
 ## workshop 1
 
-How to start with a frontend and expose it with the gateway application.
+How to start with a frontend and expose it with the gateway application...
 
 - learn to use the wattpm CLI
 - learn to kickoff a watt project
