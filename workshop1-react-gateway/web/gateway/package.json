@@ -1,0 +1,10 @@
+{
+  "name": "gateway",
+  "scripts": {
+    "start": "platformatic start",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22.19.0"
+  }
+}

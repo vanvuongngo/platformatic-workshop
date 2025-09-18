@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.platformatic.dev/@platformatic/gateway/3.3.0.json",
+  "watch": true,
+  "gateway": {
+    "applications": [
+      {
+        "id": "frontend"
+      }
+    ],
+    "refreshTimeout": 1000
+  }
+}
