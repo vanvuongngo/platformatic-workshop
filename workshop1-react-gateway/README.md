@@ -1,5 +1,5 @@
 # Workshop: Build React frontend with vite
-React app and exposed with tge gateway app.
+React app and exposed with the gateway app.
 
 ## Create a new Watt project
 
