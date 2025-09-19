@@ -22,8 +22,8 @@ How to start with a frontend and expose it with the gateway application...
 ```mermaid
 sequenceDiagram
   actor Client
-  actor Gateway
-  actor React
+  participant Gateway
+  participant React
   Client->>+Gateway: GET /
   Gateway->>+React: GET /dist
   React-->>-Gateway: index.html, 200 OK
