@@ -8,7 +8,7 @@ site: [platformatic.dev](https://platformatic.dev/)
 
 doc: [Reference](https://platformatic.dev/docs/Overview)
 
-## Requirements
+## Prerequisites
 
 - [Node.js](https://nodejs.org/) >= v22.19.0
 - [npm](https://docs.npmjs.com/cli/) v10 or later
