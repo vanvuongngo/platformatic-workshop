@@ -19,6 +19,8 @@ doc: [Reference](https://platformatic.dev/docs/Overview)
 
 How to start with a frontend and expose it with the gateway application...
 
+see [workshop1-react-gateway](https://github.com/vanvuongngo/platformatic-workshop/tree/main/workshop1-react-gateway)
+
 ```mermaid
 sequenceDiagram
   actor Client
